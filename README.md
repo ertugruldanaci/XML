@@ -1,2 +1,2 @@
 # XML
-Hacettepe University BBY 464 Semantic Information Management (Spring 2018) Exercises
+Hacettepe University BBY464 Semantic Information Management (Spring 2019) Exercise 1
